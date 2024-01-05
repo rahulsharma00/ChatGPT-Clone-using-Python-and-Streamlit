@@ -8,3 +8,6 @@ To launch the application, you will need to run streamlit in the terminal:
 ```
 streamlit run main.py
 ```
+## Output Pictures
+<img width="1431" alt="Screenshot 2024-01-05 at 1 12 03 PM" src="https://github.com/rahulsharma00/ChatGPT-Clone-using-Python-and-Streamlit/assets/89294054/faa7d591-9d4b-4e2a-a646-35de971fea14">
+
